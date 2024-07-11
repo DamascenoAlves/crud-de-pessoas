@@ -1,0 +1,10 @@
+:host{
+    background: #4285f4;
+    color:#fff;
+    position:fixed;
+    top: 1;
+    left: 0;
+    width: 100vw;
+    height: 96%;
+    z-index: 100  
+}

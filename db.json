@@ -1,0 +1,44 @@
+{
+  "profiles": [
+    {
+      "id": "uq2e",
+      "name": "Alice",
+      "role": "admin",
+      "age": 32,
+      "email": "alice@alice.com",
+      "isActive": true,
+      "country": "USA",
+      "experience": "Senior"
+    },
+    {
+      "name": "Cleito",
+      "role": "administrador",
+      "age": 32,
+      "email": "Cleito@Cleito.com",
+      "isActive": true,
+      "country": "USA",
+      "experience": "Senior",
+      "id": "ed6f"
+    },
+    {
+      "id": "3708",
+      "name": "Matheus ",
+      "role": "user",
+      "age": 25,
+      "email": "matheusd.alves@hotmail.com",
+      "isActive": true,
+      "country": "Brasil",
+      "experience": "Java and Angular Developer"
+    },
+    {
+      "id": "efb0",
+      "name": "Raphael",
+      "role": "admin",
+      "age": 21,
+      "email": "Raphael@raphael.com",
+      "isActive": false,
+      "country": "",
+      "experience": ""
+    }
+  ]
+}
