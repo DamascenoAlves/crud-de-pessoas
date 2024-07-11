@@ -15,7 +15,7 @@
       "role": "user",
       "age": 32,
       "email": "Cleiton@Cleiton.com",
-      "isActive": true,
+      "isActive": false,
       "country": "USA",
       "experience": "Senior",
       "id": "ed6f"
